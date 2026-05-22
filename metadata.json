@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Try-On",
+  "description": "AI-powered shopping assistant that helps you discover and visualize clothes on yourself using personalized recommendations and virtual try-on.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Vision", "Personalized Styling", "Virtual Try-On", "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
